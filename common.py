@@ -8,3 +8,4 @@ class Common():
         self.Tc = Tc
         self.d = d
         self.c =c
+        #hsbdvjshvbls
